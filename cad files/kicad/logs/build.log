@@ -1,0 +1,1088 @@
+05:03:48: User layout: https://editor.keyboard-tools.xyz/#share=NrBEAYBp1SAIKQIywVATKxBmLUAsekArEQGxEDsRAHEQJxFIzyJIqtRKbwDeoAD1AAuOOAB06YgF9OyXHKSFFpALqQAUGCTQsOjgh09DkBSeUnSrHRWuRqduncZ3me5AdD7j-IaIlSsiZIZl7IFmFIaprA-ACeImKSMqzouqnIWGnGoGmhaRFpVghptiX2WZBO5S7lbhnsldyovokBKXX54U3RWqDY6QgDngM5A6EDEQPF-ZBlsw5DVVgDtbP1S42swz6CbclB6xPd28i9YPiDoJeelzmXoZcRlzOX85eL18usl2s3LAgbrdkLs-ElAj95Fgbs8zqB1H1iFckZ4kTkkWZWv5xB1QEiLPwAO6JdCHJHzJGLLFJXFItYogF4jwtPaiJDJVjE0Sk1go0IotSqIA
+05:03:48: Labels prefixes: for rows: 'ROW', for columns: 'COL'
+05:03:48: Matrix size: 5x15
+05:03:48: Add COL0 net
+05:03:48: Add COL1 net
+05:03:48: Add COL10 net
+05:03:48: Add COL11 net
+05:03:48: Add COL12 net
+05:03:48: Add COL13 net
+05:03:48: Add COL14 net
+05:03:48: Add COL15 net
+05:03:48: Add COL2 net
+05:03:48: Add COL3 net
+05:03:48: Add COL4 net
+05:03:48: Add COL5 net
+05:03:48: Add COL6 net
+05:03:48: Add COL7 net
+05:03:48: Add COL8 net
+05:03:48: Add COL9 net
+05:03:48: Add Net-(D1-A) net
+05:03:48: Add Net-(D10-A) net
+05:03:48: Add Net-(D11-A) net
+05:03:48: Add Net-(D12-A) net
+05:03:48: Add Net-(D13-A) net
+05:03:48: Add Net-(D14-A) net
+05:03:48: Add Net-(D15-A) net
+05:03:48: Add Net-(D16-A) net
+05:03:48: Add Net-(D17-A) net
+05:03:48: Add Net-(D18-A) net
+05:03:48: Add Net-(D19-A) net
+05:03:48: Add Net-(D2-A) net
+05:03:48: Add Net-(D20-A) net
+05:03:48: Add Net-(D21-A) net
+05:03:48: Add Net-(D22-A) net
+05:03:48: Add Net-(D23-A) net
+05:03:48: Add Net-(D24-A) net
+05:03:48: Add Net-(D25-A) net
+05:03:48: Add Net-(D26-A) net
+05:03:48: Add Net-(D27-A) net
+05:03:48: Add Net-(D28-A) net
+05:03:48: Add Net-(D29-A) net
+05:03:48: Add Net-(D3-A) net
+05:03:48: Add Net-(D30-A) net
+05:03:48: Add Net-(D31-A) net
+05:03:48: Add Net-(D32-A) net
+05:03:48: Add Net-(D33-A) net
+05:03:48: Add Net-(D34-A) net
+05:03:48: Add Net-(D35-A) net
+05:03:48: Add Net-(D36-A) net
+05:03:48: Add Net-(D37-A) net
+05:03:48: Add Net-(D38-A) net
+05:03:48: Add Net-(D39-A) net
+05:03:48: Add Net-(D4-A) net
+05:03:48: Add Net-(D40-A) net
+05:03:48: Add Net-(D41-A) net
+05:03:48: Add Net-(D42-A) net
+05:03:48: Add Net-(D43-A) net
+05:03:48: Add Net-(D44-A) net
+05:03:48: Add Net-(D45-A) net
+05:03:48: Add Net-(D46-A) net
+05:03:48: Add Net-(D47-A) net
+05:03:48: Add Net-(D48-A) net
+05:03:48: Add Net-(D49-A) net
+05:03:48: Add Net-(D5-A) net
+05:03:48: Add Net-(D50-A) net
+05:03:48: Add Net-(D51-A) net
+05:03:48: Add Net-(D52-A) net
+05:03:48: Add Net-(D53-A) net
+05:03:48: Add Net-(D54-A) net
+05:03:48: Add Net-(D55-A) net
+05:03:48: Add Net-(D56-A) net
+05:03:48: Add Net-(D57-A) net
+05:03:48: Add Net-(D58-A) net
+05:03:48: Add Net-(D59-A) net
+05:03:48: Add Net-(D6-A) net
+05:03:48: Add Net-(D60-A) net
+05:03:48: Add Net-(D61-A) net
+05:03:48: Add Net-(D62-A) net
+05:03:48: Add Net-(D63-A) net
+05:03:48: Add Net-(D64-A) net
+05:03:48: Add Net-(D65-A) net
+05:03:48: Add Net-(D66-A) net
+05:03:48: Add Net-(D67-A) net
+05:03:48: Add Net-(D68-A) net
+05:03:48: Add Net-(D69-A) net
+05:03:48: Add Net-(D7-A) net
+05:03:48: Add Net-(D70-A) net
+05:03:48: Add Net-(D71-A) net
+05:03:48: Add Net-(D72-A) net
+05:03:48: Add Net-(D73-A) net
+05:03:48: Add Net-(D74-A) net
+05:03:48: Add Net-(D75-A) net
+05:03:48: Add Net-(D76-A) net
+05:03:48: Add Net-(D77-A) net
+05:03:48: Add Net-(D78-A) net
+05:03:48: Add Net-(D79-A) net
+05:03:48: Add Net-(D8-A) net
+05:03:48: Add Net-(D80-A) net
+05:03:48: Add Net-(D81-A) net
+05:03:48: Add Net-(D82-A) net
+05:03:48: Add Net-(D83-A) net
+05:03:48: Add Net-(D84-A) net
+05:03:48: Add Net-(D85-A) net
+05:03:48: Add Net-(D86-A) net
+05:03:48: Add Net-(D87-A) net
+05:03:48: Add Net-(D88-A) net
+05:03:48: Add Net-(D89-A) net
+05:03:48: Add Net-(D9-A) net
+05:03:48: Add Net-(D90-A) net
+05:03:48: Add Net-(D91-A) net
+05:03:48: Add Net-(D92-A) net
+05:03:48: Add ROW0 net
+05:03:48: Add ROW1 net
+05:03:48: Add ROW2 net
+05:03:48: Add ROW3 net
+05:03:48: Add ROW4 net
+05:03:48: Add ROW5 net
+05:03:49: Add SW1 footprint
+05:03:49: Add D1 footprint
+05:03:49: Add SW2 footprint
+05:03:49: Add D2 footprint
+05:03:49: Add SW3 footprint
+05:03:49: Add D3 footprint
+05:03:49: Add SW4 footprint
+05:03:49: Add D4 footprint
+05:03:49: Add SW5 footprint
+05:03:49: Add D5 footprint
+05:03:49: Add SW6 footprint
+05:03:49: Add D6 footprint
+05:03:49: Add SW7 footprint
+05:03:49: Add D7 footprint
+05:03:49: Add SW8 footprint
+05:03:49: Add D8 footprint
+05:03:49: Add SW9 footprint
+05:03:49: Add D9 footprint
+05:03:49: Add SW10 footprint
+05:03:49: Add D10 footprint
+05:03:50: Add SW11 footprint
+05:03:50: Add D11 footprint
+05:03:50: Add SW12 footprint
+05:03:50: Add D12 footprint
+05:03:50: Add SW13 footprint
+05:03:50: Add D13 footprint
+05:03:50: Add SW14 footprint
+05:03:50: Add D14 footprint
+05:03:50: Add SW15 footprint
+05:03:50: Add D15 footprint
+05:03:50: Add SW16 footprint
+05:03:50: Add D16 footprint
+05:03:50: Add SW17 footprint
+05:03:50: Add D17 footprint
+05:03:50: Add SW18 footprint
+05:03:50: Add D18 footprint
+05:03:50: Add SW19 footprint
+05:03:50: Add D19 footprint
+05:03:50: Add SW20 footprint
+05:03:50: Add D20 footprint
+05:03:51: Add SW21 footprint
+05:03:51: Add D21 footprint
+05:03:51: Add SW22 footprint
+05:03:51: Add D22 footprint
+05:03:51: Add SW23 footprint
+05:03:51: Add D23 footprint
+05:03:51: Add SW24 footprint
+05:03:51: Add D24 footprint
+05:03:51: Add SW25 footprint
+05:03:51: Add D25 footprint
+05:03:51: Add SW26 footprint
+05:03:51: Add D26 footprint
+05:03:51: Add SW27 footprint
+05:03:51: Add D27 footprint
+05:03:51: Add SW28 footprint
+05:03:51: Add D28 footprint
+05:03:51: Add SW29 footprint
+05:03:51: Add D29 footprint
+05:03:51: Add SW30 footprint
+05:03:51: Add D30 footprint
+05:03:52: Add SW31 footprint
+05:03:52: Add D31 footprint
+05:03:52: Add SW32 footprint
+05:03:52: Add D32 footprint
+05:03:52: Add SW33 footprint
+05:03:52: Add D33 footprint
+05:03:52: Add SW34 footprint
+05:03:52: Add D34 footprint
+05:03:52: Add SW35 footprint
+05:03:52: Add D35 footprint
+05:03:52: Add SW36 footprint
+05:03:52: Add D36 footprint
+05:03:52: Add SW37 footprint
+05:03:52: Add D37 footprint
+05:03:52: Add SW38 footprint
+05:03:52: Add D38 footprint
+05:03:52: Add SW39 footprint
+05:03:52: Add D39 footprint
+05:03:52: Add SW40 footprint
+05:03:52: Add D40 footprint
+05:03:53: Add SW41 footprint
+05:03:53: Add D41 footprint
+05:03:53: Add SW42 footprint
+05:03:53: Add D42 footprint
+05:03:53: Add SW43 footprint
+05:03:53: Add D43 footprint
+05:03:53: Add SW44 footprint
+05:03:53: Add D44 footprint
+05:03:53: Add SW45 footprint
+05:03:53: Add D45 footprint
+05:03:53: Add SW46 footprint
+05:03:53: Add D46 footprint
+05:03:53: Add SW47 footprint
+05:03:53: Add D47 footprint
+05:03:53: Add SW48 footprint
+05:03:53: Add D48 footprint
+05:03:53: Add SW49 footprint
+05:03:53: Add D49 footprint
+05:03:53: Add SW50 footprint
+05:03:53: Add D50 footprint
+05:03:54: Add SW51 footprint
+05:03:54: Add D51 footprint
+05:03:54: Add SW52 footprint
+05:03:54: Add D52 footprint
+05:03:54: Add SW53 footprint
+05:03:54: Add D53 footprint
+05:03:54: Add SW54 footprint
+05:03:54: Add D54 footprint
+05:03:54: Add SW55 footprint
+05:03:54: Add D55 footprint
+05:03:54: Add SW56 footprint
+05:03:54: Add D56 footprint
+05:03:54: Add SW57 footprint
+05:03:54: Add D57 footprint
+05:03:54: Add SW58 footprint
+05:03:54: Add D58 footprint
+05:03:55: Add SW59 footprint
+05:03:55: Add D59 footprint
+05:03:55: Add SW60 footprint
+05:03:55: Add D60 footprint
+05:03:55: Add SW61 footprint
+05:03:55: Add D61 footprint
+05:03:55: Add SW62 footprint
+05:03:55: Add D62 footprint
+05:03:55: Add SW63 footprint
+05:03:55: Add D63 footprint
+05:03:55: Add SW64 footprint
+05:03:55: Add D64 footprint
+05:03:55: Add SW65 footprint
+05:03:55: Add D65 footprint
+05:03:55: Add SW66 footprint
+05:03:55: Add D66 footprint
+05:03:55: Add SW67 footprint
+05:03:55: Add D67 footprint
+05:03:55: Add SW68 footprint
+05:03:55: Add D68 footprint
+05:03:56: Add SW69 footprint
+05:03:56: Add D69 footprint
+05:03:56: Add SW70 footprint
+05:03:56: Add D70 footprint
+05:03:56: Add SW71 footprint
+05:03:56: Add D71 footprint
+05:03:56: Add SW72 footprint
+05:03:56: Add D72 footprint
+05:03:56: Add SW73 footprint
+05:03:56: Add D73 footprint
+05:03:56: Add SW74 footprint
+05:03:56: Add D74 footprint
+05:03:56: Add SW75 footprint
+05:03:56: Add D75 footprint
+05:03:56: Add SW76 footprint
+05:03:56: Add D76 footprint
+05:03:56: Add SW77 footprint
+05:03:56: Add D77 footprint
+05:03:57: Add SW78 footprint
+05:03:57: Add D78 footprint
+05:03:57: Add SW79 footprint
+05:03:57: Add D79 footprint
+05:03:57: Add SW80 footprint
+05:03:57: Add D80 footprint
+05:03:57: Add SW81 footprint
+05:03:57: Add D81 footprint
+05:03:57: Add SW82 footprint
+05:03:57: Add D82 footprint
+05:03:57: Add SW83 footprint
+05:03:57: Add D83 footprint
+05:03:57: Add SW84 footprint
+05:03:57: Add D84 footprint
+05:03:57: Add SW85 footprint
+05:03:57: Add D85 footprint
+05:03:57: Add SW86 footprint
+05:03:57: Add D86 footprint
+05:03:57: Add SW87 footprint
+05:03:58: Add D87 footprint
+05:03:58: Add SW88 footprint
+05:03:58: Add D88 footprint
+05:03:58: Add SW89 footprint
+05:03:58: Add D89 footprint
+05:03:58: Add SW90 footprint
+05:03:58: Add D90 footprint
+05:03:58: Add SW91 footprint
+05:03:58: Add D91 footprint
+05:03:58: Add SW92 footprint
+05:03:58: Add D92 footprint
+05:03:58: Detected layout convertible to matrix annotated keyboard
+05:03:58: Using key 1U distance: (19.05, 19.05) mm
+05:03:58: Layout offset: (-9525000, -9525000)
+05:03:58: Diode info: [ElementInfo(annotation_format='D{}', position_option=<PositionOption.CUSTOM: 'Custom'>, position=ElementPosition(x=5.08, y=4.0, orientation=90.0, side=<Side.BACK: 'Back'>), template_path='', start_index=-1)]
+05:03:58: Placing additional elements for SW92
+05:03:58: Placing additional elements for SW91
+05:03:58: Placing additional elements for SW90
+05:03:58: Placing additional elements for SW89
+05:03:58: Placing additional elements for SW88
+05:03:58: Placing additional elements for SW87
+05:03:58: Placing additional elements for SW86
+05:03:58: Placing additional elements for SW85
+05:03:58: Placing additional elements for SW84
+05:03:58: Placing additional elements for SW83
+05:03:58: Placing additional elements for SW82
+05:03:58: Placing additional elements for SW81
+05:03:58: Placing additional elements for SW80
+05:03:58: Placing additional elements for SW79
+05:03:58: Placing additional elements for SW78
+05:03:58: Placing additional elements for SW77
+05:03:58: Placing additional elements for SW76
+05:03:58: Placing additional elements for SW75
+05:03:58: Placing additional elements for SW74
+05:03:58: Placing additional elements for SW73
+05:03:58: Placing additional elements for SW72
+05:03:58: Placing additional elements for SW71
+05:03:58: Placing additional elements for SW70
+05:03:58: Placing additional elements for SW69
+05:03:58: Placing additional elements for SW68
+05:03:58: Placing additional elements for SW67
+05:03:58: Placing additional elements for SW66
+05:03:58: Placing additional elements for SW65
+05:03:58: Placing additional elements for SW64
+05:03:58: Placing additional elements for SW63
+05:03:58: Placing additional elements for SW62
+05:03:58: Placing additional elements for SW61
+05:03:58: Placing additional elements for SW60
+05:03:58: Placing additional elements for SW59
+05:03:58: Placing additional elements for SW58
+05:03:58: Placing additional elements for SW57
+05:03:58: Placing additional elements for SW56
+05:03:58: Placing additional elements for SW55
+05:03:58: Placing additional elements for SW54
+05:03:58: Placing additional elements for SW53
+05:03:58: Placing additional elements for SW52
+05:03:58: Placing additional elements for SW51
+05:03:58: Placing additional elements for SW50
+05:03:58: Placing additional elements for SW49
+05:03:58: Placing additional elements for SW48
+05:03:58: Placing additional elements for SW47
+05:03:58: Placing additional elements for SW46
+05:03:58: Placing additional elements for SW45
+05:03:58: Placing additional elements for SW44
+05:03:58: Placing additional elements for SW43
+05:03:58: Placing additional elements for SW42
+05:03:58: Placing additional elements for SW41
+05:03:58: Placing additional elements for SW40
+05:03:58: Placing additional elements for SW39
+05:03:58: Placing additional elements for SW38
+05:03:58: Placing additional elements for SW37
+05:03:58: Placing additional elements for SW36
+05:03:58: Placing additional elements for SW35
+05:03:58: Placing additional elements for SW34
+05:03:58: Placing additional elements for SW33
+05:03:58: Placing additional elements for SW32
+05:03:58: Placing additional elements for SW31
+05:03:58: Placing additional elements for SW30
+05:03:58: Placing additional elements for SW29
+05:03:58: Placing additional elements for SW28
+05:03:58: Placing additional elements for SW27
+05:03:58: Placing additional elements for SW26
+05:03:58: Placing additional elements for SW25
+05:03:58: Placing additional elements for SW24
+05:03:58: Placing additional elements for SW23
+05:03:58: Placing additional elements for SW22
+05:03:58: Placing additional elements for SW21
+05:03:58: Placing additional elements for SW20
+05:03:58: Placing additional elements for SW19
+05:03:58: Placing additional elements for SW18
+05:03:58: Placing additional elements for SW17
+05:03:58: Placing additional elements for SW16
+05:03:58: Placing additional elements for SW15
+05:03:58: Placing additional elements for SW14
+05:03:58: Placing additional elements for SW13
+05:03:58: Placing additional elements for SW12
+05:03:58: Placing additional elements for SW11
+05:03:58: Placing additional elements for SW10
+05:03:58: Placing additional elements for SW9
+05:03:58: Placing additional elements for SW8
+05:03:58: Placing additional elements for SW7
+05:03:58: Placing additional elements for SW6
+05:03:58: Placing additional elements for SW5
+05:03:58: Placing additional elements for SW4
+05:03:58: Placing additional elements for SW3
+05:03:58: Placing additional elements for SW2
+05:03:58: Placing additional elements for SW1
+05:03:58: Routing SW92 with D92
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW92:2' at (296354500, 94932500) with pad 'D92:2' at (295592500, 102362500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW91 with D91
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW91:2' at (267779500, 94932500) with pad 'D91:2' at (267017500, 102362500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW90 with D90
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW90:2' at (215392000, 94932500) with pad 'D90:2' at (214630000, 102362500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW89 with D89
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW89:2' at (196342000, 94932500) with pad 'D89:2' at (195580000, 102362500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW88 with D88
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW88:2' at (177292000, 94932500) with pad 'D88:2' at (176530000, 102362500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW87 with D87
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW87:2' at (148717000, 94932500) with pad 'D87:2' at (147955000, 102362500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW86 with D86
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW86:2' at (120142000, 94932500) with pad 'D86:2' at (119380000, 102362500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW85 with D85
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW85:2' at (91567000, 94932500) with pad 'D85:2' at (90805000, 102362500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW84 with D84
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW84:2' at (62992000, 94932500) with pad 'D84:2' at (62230000, 102362500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW83 with D83
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW83:2' at (43942000, 94932500) with pad 'D83:2' at (43180000, 102362500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW82 with D82
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW82:2' at (24892000, 94932500) with pad 'D82:2' at (24130000, 102362500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW81 with D81
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW81:2' at (5842000, 94932500) with pad 'D81:2' at (5080000, 102362500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW80 with D80
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW80:2' at (296354500, 75882500) with pad 'D80:2' at (295592500, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW79 with D79
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW79:2' at (277304500, 75882500) with pad 'D79:2' at (276542500, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW78 with D78
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW78:2' at (258254500, 75882500) with pad 'D78:2' at (257492500, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW77 with D77
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW77:2' at (234442000, 75882500) with pad 'D77:2' at (233680000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW76 with D76
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW76:2' at (215392000, 75882500) with pad 'D76:2' at (214630000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW75 with D75
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW75:2' at (196342000, 75882500) with pad 'D75:2' at (195580000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW74 with D74
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW74:2' at (177292000, 75882500) with pad 'D74:2' at (176530000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW73 with D73
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW73:2' at (158242000, 75882500) with pad 'D73:2' at (157480000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW72 with D72
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW72:2' at (139192000, 75882500) with pad 'D72:2' at (138430000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW71 with D71
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW71:2' at (120142000, 75882500) with pad 'D71:2' at (119380000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW70 with D70
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW70:2' at (101092000, 75882500) with pad 'D70:2' at (100330000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW69 with D69
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW69:2' at (82042000, 75882500) with pad 'D69:2' at (81280000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW68 with D68
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW68:2' at (62992000, 75882500) with pad 'D68:2' at (62230000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW67 with D67
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW67:2' at (43942000, 75882500) with pad 'D67:2' at (43180000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW66 with D66
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW66:2' at (24892000, 75882500) with pad 'D66:2' at (24130000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW65 with D65
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW65:2' at (5842000, 75882500) with pad 'D65:2' at (5080000, 83312500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW64 with D64
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW64:2' at (296354500, 56832500) with pad 'D64:2' at (295592500, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW63 with D63
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW63:2' at (277304500, 56832500) with pad 'D63:2' at (276542500, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW62 with D62
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW62:2' at (258254500, 56832500) with pad 'D62:2' at (257492500, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW61 with D61
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW61:2' at (234442000, 56832500) with pad 'D61:2' at (233680000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW60 with D60
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW60:2' at (215392000, 56832500) with pad 'D60:2' at (214630000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW59 with D59
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW59:2' at (196342000, 56832500) with pad 'D59:2' at (195580000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW58 with D58
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW58:2' at (177292000, 56832500) with pad 'D58:2' at (176530000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW57 with D57
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW57:2' at (158242000, 56832500) with pad 'D57:2' at (157480000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW56 with D56
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW56:2' at (139192000, 56832500) with pad 'D56:2' at (138430000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW55 with D55
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW55:2' at (120142000, 56832500) with pad 'D55:2' at (119380000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:58: Routing SW54 with D54
+05:03:58: Using internal autorouter method
+05:03:58: Routing pad 'SW54:2' at (101092000, 56832500) with pad 'D54:2' at (100330000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW53 with D53
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW53:2' at (82042000, 56832500) with pad 'D53:2' at (81280000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW52 with D52
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW52:2' at (62992000, 56832500) with pad 'D52:2' at (62230000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW51 with D51
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW51:2' at (43942000, 56832500) with pad 'D51:2' at (43180000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW50 with D50
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW50:2' at (24892000, 56832500) with pad 'D50:2' at (24130000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW49 with D49
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW49:2' at (5842000, 56832500) with pad 'D49:2' at (5080000, 64262500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW48 with D48
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW48:2' at (296354500, 37782500) with pad 'D48:2' at (295592500, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW47 with D47
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW47:2' at (277304500, 37782500) with pad 'D47:2' at (276542500, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW46 with D46
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW46:2' at (258254500, 37782500) with pad 'D46:2' at (257492500, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW45 with D45
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW45:2' at (234442000, 37782500) with pad 'D45:2' at (233680000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW44 with D44
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW44:2' at (215392000, 37782500) with pad 'D44:2' at (214630000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW43 with D43
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW43:2' at (196342000, 37782500) with pad 'D43:2' at (195580000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW42 with D42
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW42:2' at (177292000, 37782500) with pad 'D42:2' at (176530000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW41 with D41
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW41:2' at (158242000, 37782500) with pad 'D41:2' at (157480000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW40 with D40
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW40:2' at (139192000, 37782500) with pad 'D40:2' at (138430000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW39 with D39
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW39:2' at (120142000, 37782500) with pad 'D39:2' at (119380000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW38 with D38
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW38:2' at (101092000, 37782500) with pad 'D38:2' at (100330000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW37 with D37
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW37:2' at (82042000, 37782500) with pad 'D37:2' at (81280000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW36 with D36
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW36:2' at (62992000, 37782500) with pad 'D36:2' at (62230000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW35 with D35
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW35:2' at (43942000, 37782500) with pad 'D35:2' at (43180000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW34 with D34
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW34:2' at (24892000, 37782500) with pad 'D34:2' at (24130000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW33 with D33
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW33:2' at (5842000, 37782500) with pad 'D33:2' at (5080000, 45212500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW32 with D32
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW32:2' at (296354500, 13970000) with pad 'D32:2' at (295592500, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW31 with D31
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW31:2' at (277304500, 13970000) with pad 'D31:2' at (276542500, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW30 with D30
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW30:2' at (258254500, 13970000) with pad 'D30:2' at (257492500, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW29 with D29
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW29:2' at (234442000, 13970000) with pad 'D29:2' at (233680000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW28 with D28
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW28:2' at (215392000, 13970000) with pad 'D28:2' at (214630000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW27 with D27
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW27:2' at (196342000, 13970000) with pad 'D27:2' at (195580000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW26 with D26
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW26:2' at (177292000, 13970000) with pad 'D26:2' at (176530000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW25 with D25
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW25:2' at (158242000, 13970000) with pad 'D25:2' at (157480000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW24 with D24
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW24:2' at (139192000, 13970000) with pad 'D24:2' at (138430000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW23 with D23
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW23:2' at (120142000, 13970000) with pad 'D23:2' at (119380000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW22 with D22
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW22:2' at (101092000, 13970000) with pad 'D22:2' at (100330000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW21 with D21
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW21:2' at (82042000, 13970000) with pad 'D21:2' at (81280000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW20 with D20
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW20:2' at (62992000, 13970000) with pad 'D20:2' at (62230000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW19 with D19
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW19:2' at (43942000, 13970000) with pad 'D19:2' at (43180000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW18 with D18
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW18:2' at (24892000, 13970000) with pad 'D18:2' at (24130000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW17 with D17
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW17:2' at (5842000, 13970000) with pad 'D17:2' at (5080000, 21400000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW16 with D16
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW16:2' at (296354500, -5080000) with pad 'D16:2' at (295592500, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW15 with D15
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW15:2' at (277304500, -5080000) with pad 'D15:2' at (276542500, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW14 with D14
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW14:2' at (258254500, -5080000) with pad 'D14:2' at (257492500, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW13 with D13
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW13:2' at (234442000, -5080000) with pad 'D13:2' at (233680000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW12 with D12
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW12:2' at (215392000, -5080000) with pad 'D12:2' at (214630000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW11 with D11
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW11:2' at (196342000, -5080000) with pad 'D11:2' at (195580000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW10 with D10
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW10:2' at (177292000, -5080000) with pad 'D10:2' at (176530000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW9 with D9
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW9:2' at (158242000, -5080000) with pad 'D9:2' at (157480000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW8 with D8
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW8:2' at (139192000, -5080000) with pad 'D8:2' at (138430000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW7 with D7
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW7:2' at (120142000, -5080000) with pad 'D7:2' at (119380000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW6 with D6
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW6:2' at (101092000, -5080000) with pad 'D6:2' at (100330000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW5 with D5
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW5:2' at (82042000, -5080000) with pad 'D5:2' at (81280000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW4 with D4
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW4:2' at (62992000, -5080000) with pad 'D4:2' at (62230000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW3 with D3
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW3:2' at (43942000, -5080000) with pad 'D3:2' at (43180000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW2 with D2
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW2:2' at (24892000, -5080000) with pad 'D2:2' at (24130000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing SW1 with D1
+05:03:59: Using internal autorouter method
+05:03:59: Routing pad 'SW1:2' at (5842000, -5080000) with pad 'D1:2' at (5080000, 2350000) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing ROW5 pads
+05:03:59: Routing pad 'D81:1' at (5080000, 105662500) with pad 'D82:1' at (24130000, 105662500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(5080000, 105662500), (24130000, 105662500)]
+05:03:59: Routing pad 'D82:1' at (24130000, 105662500) with pad 'D83:1' at (43180000, 105662500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(24130000, 105662500), (43180000, 105662500)]
+05:03:59: Routing pad 'D83:1' at (43180000, 105662500) with pad 'D84:1' at (62230000, 105662500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(43180000, 105662500), (62230000, 105662500)]
+05:03:59: Routing pad 'D84:1' at (62230000, 105662500) with pad 'D85:1' at (90805000, 105662500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(62230000, 105662500), (90805000, 105662500)]
+05:03:59: Routing pad 'D85:1' at (90805000, 105662500) with pad 'D86:1' at (119380000, 105662500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(90805000, 105662500), (119380000, 105662500)]
+05:03:59: Routing pad 'D86:1' at (119380000, 105662500) with pad 'D87:1' at (147955000, 105662500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(119380000, 105662500), (147955000, 105662500)]
+05:03:59: Routing pad 'D87:1' at (147955000, 105662500) with pad 'D88:1' at (176530000, 105662500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(147955000, 105662500), (176530000, 105662500)]
+05:03:59: Routing pad 'D88:1' at (176530000, 105662500) with pad 'D89:1' at (195580000, 105662500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(176530000, 105662500), (195580000, 105662500)]
+05:03:59: Routing pad 'D89:1' at (195580000, 105662500) with pad 'D90:1' at (214630000, 105662500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(195580000, 105662500), (214630000, 105662500)]
+05:03:59: Routing pad 'D90:1' at (214630000, 105662500) with pad 'D91:1' at (267017500, 105662500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(214630000, 105662500), (267017500, 105662500)]
+05:03:59: Routing pad 'D91:1' at (267017500, 105662500) with pad 'D92:1' at (295592500, 105662500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(267017500, 105662500), (295592500, 105662500)]
+05:03:59: Routing COL4 pads
+05:03:59: Routing pad 'SW5:1' at (69115000, -2540000) with pad 'SW21:1' at (69115000, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(69115000, -2540000), (69115000, 16510000)]
+05:03:59: Routing pad 'SW21:1' at (69115000, 16510000) with pad 'SW37:1' at (69115000, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(69115000, 16510000), (69115000, 40322500)]
+05:03:59: Routing pad 'SW37:1' at (69115000, 40322500) with pad 'SW53:1' at (69115000, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(69115000, 40322500), (69115000, 59372500)]
+05:03:59: Routing pad 'SW53:1' at (69115000, 59372500) with pad 'SW69:1' at (69115000, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(69115000, 59372500), (69115000, 78422500)]
+05:03:59: Routing pad 'SW69:1' at (69115000, 78422500) with pad 'SW85:1' at (78640000, 97472500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(69115000, 78422500), (69115000, 87947500)]
+05:03:59: Adding track segment (B.Cu): [(69115000, 87947500), (78640000, 97472500)]
+05:03:59: Routing COL1 pads
+05:03:59: Routing pad 'SW2:1' at (11965000, -2540000) with pad 'SW18:1' at (11965000, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(11965000, -2540000), (11965000, 16510000)]
+05:03:59: Routing pad 'SW18:1' at (11965000, 16510000) with pad 'SW34:1' at (11965000, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(11965000, 16510000), (11965000, 40322500)]
+05:03:59: Routing pad 'SW34:1' at (11965000, 40322500) with pad 'SW50:1' at (11965000, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(11965000, 40322500), (11965000, 59372500)]
+05:03:59: Routing pad 'SW50:1' at (11965000, 59372500) with pad 'SW66:1' at (11965000, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(11965000, 59372500), (11965000, 78422500)]
+05:03:59: Routing pad 'SW66:1' at (11965000, 78422500) with pad 'SW82:1' at (11965000, 97472500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(11965000, 78422500), (11965000, 97472500)]
+05:03:59: Routing COL2 pads
+05:03:59: Routing pad 'SW3:1' at (31015000, -2540000) with pad 'SW19:1' at (31015000, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(31015000, -2540000), (31015000, 16510000)]
+05:03:59: Routing pad 'SW19:1' at (31015000, 16510000) with pad 'SW35:1' at (31015000, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(31015000, 16510000), (31015000, 40322500)]
+05:03:59: Routing pad 'SW35:1' at (31015000, 40322500) with pad 'SW51:1' at (31015000, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(31015000, 40322500), (31015000, 59372500)]
+05:03:59: Routing pad 'SW51:1' at (31015000, 59372500) with pad 'SW67:1' at (31015000, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(31015000, 59372500), (31015000, 78422500)]
+05:03:59: Routing pad 'SW67:1' at (31015000, 78422500) with pad 'SW83:1' at (31015000, 97472500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(31015000, 78422500), (31015000, 97472500)]
+05:03:59: Routing ROW3 pads
+05:03:59: Routing pad 'D49:1' at (5080000, 67562500) with pad 'D50:1' at (24130000, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(5080000, 67562500), (24130000, 67562500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D50:1' at (24130000, 67562500) with pad 'D51:1' at (43180000, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(24130000, 67562500), (43180000, 67562500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D51:1' at (43180000, 67562500) with pad 'D52:1' at (62230000, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(43180000, 67562500), (62230000, 67562500)]
+05:03:59: Routing pad 'D52:1' at (62230000, 67562500) with pad 'D53:1' at (81280000, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(62230000, 67562500), (81280000, 67562500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D53:1' at (81280000, 67562500) with pad 'D54:1' at (100330000, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(81280000, 67562500), (100330000, 67562500)]
+05:03:59: Routing pad 'D54:1' at (100330000, 67562500) with pad 'D55:1' at (119380000, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(100330000, 67562500), (119380000, 67562500)]
+05:03:59: Routing pad 'D55:1' at (119380000, 67562500) with pad 'D56:1' at (138430000, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(119380000, 67562500), (138430000, 67562500)]
+05:03:59: Routing pad 'D56:1' at (138430000, 67562500) with pad 'D57:1' at (157480000, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(138430000, 67562500), (157480000, 67562500)]
+05:03:59: Routing pad 'D57:1' at (157480000, 67562500) with pad 'D58:1' at (176530000, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(157480000, 67562500), (176530000, 67562500)]
+05:03:59: Routing pad 'D58:1' at (176530000, 67562500) with pad 'D59:1' at (195580000, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(176530000, 67562500), (195580000, 67562500)]
+05:03:59: Routing pad 'D59:1' at (195580000, 67562500) with pad 'D60:1' at (214630000, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(195580000, 67562500), (214630000, 67562500)]
+05:03:59: Routing pad 'D60:1' at (214630000, 67562500) with pad 'D61:1' at (233680000, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(214630000, 67562500), (233680000, 67562500)]
+05:03:59: Routing pad 'D61:1' at (233680000, 67562500) with pad 'D62:1' at (257492500, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(233680000, 67562500), (257492500, 67562500)]
+05:03:59: Routing pad 'D62:1' at (257492500, 67562500) with pad 'D63:1' at (276542500, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(257492500, 67562500), (276542500, 67562500)]
+05:03:59: Routing pad 'D63:1' at (276542500, 67562500) with pad 'D64:1' at (295592500, 67562500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(276542500, 67562500), (295592500, 67562500)]
+05:03:59: Routing COL5 pads
+05:03:59: Routing pad 'SW6:1' at (88165000, -2540000) with pad 'SW22:1' at (88165000, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(88165000, -2540000), (88165000, 16510000)]
+05:03:59: Routing pad 'SW22:1' at (88165000, 16510000) with pad 'SW38:1' at (88165000, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(88165000, 16510000), (88165000, 40322500)]
+05:03:59: Routing pad 'SW38:1' at (88165000, 40322500) with pad 'SW54:1' at (88165000, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(88165000, 40322500), (88165000, 59372500)]
+05:03:59: Routing pad 'SW54:1' at (88165000, 59372500) with pad 'SW70:1' at (88165000, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(88165000, 59372500), (88165000, 78422500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing COL10 pads
+05:03:59: Routing pad 'SW11:1' at (183415000, -2540000) with pad 'SW27:1' at (183415000, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(183415000, -2540000), (183415000, 16510000)]
+05:03:59: Routing pad 'SW27:1' at (183415000, 16510000) with pad 'SW43:1' at (183415000, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(183415000, 16510000), (183415000, 40322500)]
+05:03:59: Routing pad 'SW43:1' at (183415000, 40322500) with pad 'SW59:1' at (183415000, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(183415000, 40322500), (183415000, 59372500)]
+05:03:59: Routing pad 'SW59:1' at (183415000, 59372500) with pad 'SW75:1' at (183415000, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(183415000, 59372500), (183415000, 78422500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW75:1' at (183415000, 78422500) with pad 'SW89:1' at (183415000, 97472500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(183415000, 78422500), (183415000, 97472500)]
+05:03:59: Routing ROW4 pads
+05:03:59: Routing pad 'D65:1' at (5080000, 86612500) with pad 'D66:1' at (24130000, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(5080000, 86612500), (24130000, 86612500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D66:1' at (24130000, 86612500) with pad 'D67:1' at (43180000, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(24130000, 86612500), (43180000, 86612500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D67:1' at (43180000, 86612500) with pad 'D68:1' at (62230000, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(43180000, 86612500), (62230000, 86612500)]
+05:03:59: Routing pad 'D68:1' at (62230000, 86612500) with pad 'D69:1' at (81280000, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(62230000, 86612500), (81280000, 86612500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D69:1' at (81280000, 86612500) with pad 'D70:1' at (100330000, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(81280000, 86612500), (100330000, 86612500)]
+05:03:59: Routing pad 'D70:1' at (100330000, 86612500) with pad 'D71:1' at (119380000, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(100330000, 86612500), (119380000, 86612500)]
+05:03:59: Routing pad 'D71:1' at (119380000, 86612500) with pad 'D72:1' at (138430000, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(119380000, 86612500), (138430000, 86612500)]
+05:03:59: Routing pad 'D72:1' at (138430000, 86612500) with pad 'D73:1' at (157480000, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(138430000, 86612500), (157480000, 86612500)]
+05:03:59: Routing pad 'D73:1' at (157480000, 86612500) with pad 'D74:1' at (176530000, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(157480000, 86612500), (176530000, 86612500)]
+05:03:59: Routing pad 'D74:1' at (176530000, 86612500) with pad 'D75:1' at (195580000, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(176530000, 86612500), (195580000, 86612500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D75:1' at (195580000, 86612500) with pad 'D76:1' at (214630000, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(195580000, 86612500), (214630000, 86612500)]
+05:03:59: Routing pad 'D76:1' at (214630000, 86612500) with pad 'D77:1' at (233680000, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(214630000, 86612500), (233680000, 86612500)]
+05:03:59: Routing pad 'D77:1' at (233680000, 86612500) with pad 'D78:1' at (257492500, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(233680000, 86612500), (257492500, 86612500)]
+05:03:59: Routing pad 'D78:1' at (257492500, 86612500) with pad 'D79:1' at (276542500, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(257492500, 86612500), (276542500, 86612500)]
+05:03:59: Routing pad 'D79:1' at (276542500, 86612500) with pad 'D80:1' at (295592500, 86612500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(276542500, 86612500), (295592500, 86612500)]
+05:03:59: Routing COL11 pads
+05:03:59: Routing pad 'SW12:1' at (202465000, -2540000) with pad 'SW28:1' at (202465000, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(202465000, -2540000), (202465000, 16510000)]
+05:03:59: Routing pad 'SW28:1' at (202465000, 16510000) with pad 'SW44:1' at (202465000, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(202465000, 16510000), (202465000, 40322500)]
+05:03:59: Routing pad 'SW44:1' at (202465000, 40322500) with pad 'SW60:1' at (202465000, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(202465000, 40322500), (202465000, 59372500)]
+05:03:59: Routing pad 'SW60:1' at (202465000, 59372500) with pad 'SW76:1' at (202465000, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(202465000, 59372500), (202465000, 78422500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW76:1' at (202465000, 78422500) with pad 'SW90:1' at (202465000, 97472500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(202465000, 78422500), (202465000, 97472500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing ROW2 pads
+05:03:59: Routing pad 'D33:1' at (5080000, 48512500) with pad 'D34:1' at (24130000, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(5080000, 48512500), (24130000, 48512500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D34:1' at (24130000, 48512500) with pad 'D35:1' at (43180000, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(24130000, 48512500), (43180000, 48512500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D35:1' at (43180000, 48512500) with pad 'D36:1' at (62230000, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(43180000, 48512500), (62230000, 48512500)]
+05:03:59: Routing pad 'D36:1' at (62230000, 48512500) with pad 'D37:1' at (81280000, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(62230000, 48512500), (81280000, 48512500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D37:1' at (81280000, 48512500) with pad 'D38:1' at (100330000, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(81280000, 48512500), (100330000, 48512500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D38:1' at (100330000, 48512500) with pad 'D39:1' at (119380000, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(100330000, 48512500), (119380000, 48512500)]
+05:03:59: Routing pad 'D39:1' at (119380000, 48512500) with pad 'D40:1' at (138430000, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(119380000, 48512500), (138430000, 48512500)]
+05:03:59: Routing pad 'D40:1' at (138430000, 48512500) with pad 'D41:1' at (157480000, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(138430000, 48512500), (157480000, 48512500)]
+05:03:59: Routing pad 'D41:1' at (157480000, 48512500) with pad 'D42:1' at (176530000, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(157480000, 48512500), (176530000, 48512500)]
+05:03:59: Routing pad 'D42:1' at (176530000, 48512500) with pad 'D43:1' at (195580000, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(176530000, 48512500), (195580000, 48512500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D43:1' at (195580000, 48512500) with pad 'D44:1' at (214630000, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(195580000, 48512500), (214630000, 48512500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D44:1' at (214630000, 48512500) with pad 'D45:1' at (233680000, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(214630000, 48512500), (233680000, 48512500)]
+05:03:59: Routing pad 'D45:1' at (233680000, 48512500) with pad 'D46:1' at (257492500, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(233680000, 48512500), (257492500, 48512500)]
+05:03:59: Routing pad 'D46:1' at (257492500, 48512500) with pad 'D47:1' at (276542500, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(257492500, 48512500), (276542500, 48512500)]
+05:03:59: Routing pad 'D47:1' at (276542500, 48512500) with pad 'D48:1' at (295592500, 48512500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(276542500, 48512500), (295592500, 48512500)]
+05:03:59: Routing COL9 pads
+05:03:59: Routing pad 'SW10:1' at (164365000, -2540000) with pad 'SW26:1' at (164365000, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(164365000, -2540000), (164365000, 16510000)]
+05:03:59: Routing pad 'SW26:1' at (164365000, 16510000) with pad 'SW42:1' at (164365000, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(164365000, 16510000), (164365000, 40322500)]
+05:03:59: Routing pad 'SW42:1' at (164365000, 40322500) with pad 'SW58:1' at (164365000, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(164365000, 40322500), (164365000, 59372500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW58:1' at (164365000, 59372500) with pad 'SW74:1' at (164365000, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(164365000, 59372500), (164365000, 78422500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW74:1' at (164365000, 78422500) with pad 'SW88:1' at (164365000, 97472500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(164365000, 78422500), (164365000, 97472500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing ROW0 pads
+05:03:59: Routing pad 'D1:1' at (5080000, 5650000) with pad 'D2:1' at (24130000, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(5080000, 5650000), (24130000, 5650000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D2:1' at (24130000, 5650000) with pad 'D3:1' at (43180000, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(24130000, 5650000), (43180000, 5650000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D3:1' at (43180000, 5650000) with pad 'D4:1' at (62230000, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(43180000, 5650000), (62230000, 5650000)]
+05:03:59: Routing pad 'D4:1' at (62230000, 5650000) with pad 'D5:1' at (81280000, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(62230000, 5650000), (81280000, 5650000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D5:1' at (81280000, 5650000) with pad 'D6:1' at (100330000, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(81280000, 5650000), (100330000, 5650000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D6:1' at (100330000, 5650000) with pad 'D7:1' at (119380000, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(100330000, 5650000), (119380000, 5650000)]
+05:03:59: Routing pad 'D7:1' at (119380000, 5650000) with pad 'D8:1' at (138430000, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(119380000, 5650000), (138430000, 5650000)]
+05:03:59: Routing pad 'D8:1' at (138430000, 5650000) with pad 'D9:1' at (157480000, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(138430000, 5650000), (157480000, 5650000)]
+05:03:59: Routing pad 'D9:1' at (157480000, 5650000) with pad 'D10:1' at (176530000, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(157480000, 5650000), (176530000, 5650000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D10:1' at (176530000, 5650000) with pad 'D11:1' at (195580000, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(176530000, 5650000), (195580000, 5650000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D11:1' at (195580000, 5650000) with pad 'D12:1' at (214630000, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(195580000, 5650000), (214630000, 5650000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D12:1' at (214630000, 5650000) with pad 'D13:1' at (233680000, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(214630000, 5650000), (233680000, 5650000)]
+05:03:59: Routing pad 'D13:1' at (233680000, 5650000) with pad 'D14:1' at (257492500, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(233680000, 5650000), (257492500, 5650000)]
+05:03:59: Routing pad 'D14:1' at (257492500, 5650000) with pad 'D15:1' at (276542500, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(257492500, 5650000), (276542500, 5650000)]
+05:03:59: Routing pad 'D15:1' at (276542500, 5650000) with pad 'D16:1' at (295592500, 5650000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(276542500, 5650000), (295592500, 5650000)]
+05:03:59: Routing COL12 pads
+05:03:59: Routing pad 'SW13:1' at (221515000, -2540000) with pad 'SW29:1' at (221515000, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(221515000, -2540000), (221515000, 16510000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW29:1' at (221515000, 16510000) with pad 'SW45:1' at (221515000, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(221515000, 16510000), (221515000, 40322500)]
+05:03:59: Routing pad 'SW45:1' at (221515000, 40322500) with pad 'SW61:1' at (221515000, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(221515000, 40322500), (221515000, 59372500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW61:1' at (221515000, 59372500) with pad 'SW77:1' at (221515000, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(221515000, 59372500), (221515000, 78422500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing COL3 pads
+05:03:59: Routing pad 'SW4:1' at (50065000, -2540000) with pad 'SW20:1' at (50065000, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(50065000, -2540000), (50065000, 16510000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW20:1' at (50065000, 16510000) with pad 'SW36:1' at (50065000, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(50065000, 16510000), (50065000, 40322500)]
+05:03:59: Routing pad 'SW36:1' at (50065000, 40322500) with pad 'SW52:1' at (50065000, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(50065000, 40322500), (50065000, 59372500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW52:1' at (50065000, 59372500) with pad 'SW68:1' at (50065000, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(50065000, 59372500), (50065000, 78422500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW68:1' at (50065000, 78422500) with pad 'SW84:1' at (50065000, 97472500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(50065000, 78422500), (50065000, 97472500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing COL7 pads
+05:03:59: Routing pad 'SW8:1' at (126265000, -2540000) with pad 'SW24:1' at (126265000, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(126265000, -2540000), (126265000, 16510000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW24:1' at (126265000, 16510000) with pad 'SW40:1' at (126265000, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(126265000, 16510000), (126265000, 40322500)]
+05:03:59: Routing pad 'SW40:1' at (126265000, 40322500) with pad 'SW56:1' at (126265000, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(126265000, 40322500), (126265000, 59372500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW56:1' at (126265000, 59372500) with pad 'SW72:1' at (126265000, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(126265000, 59372500), (126265000, 78422500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW72:1' at (126265000, 78422500) with pad 'SW87:1' at (135790000, 97472500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing COL6 pads
+05:03:59: Routing pad 'SW7:1' at (107215000, -2540000) with pad 'SW23:1' at (107215000, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(107215000, -2540000), (107215000, 16510000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW23:1' at (107215000, 16510000) with pad 'SW39:1' at (107215000, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(107215000, 16510000), (107215000, 40322500)]
+05:03:59: Routing pad 'SW39:1' at (107215000, 40322500) with pad 'SW55:1' at (107215000, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(107215000, 40322500), (107215000, 59372500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW55:1' at (107215000, 59372500) with pad 'SW71:1' at (107215000, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(107215000, 59372500), (107215000, 78422500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW71:1' at (107215000, 78422500) with pad 'SW86:1' at (107215000, 97472500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(107215000, 78422500), (107215000, 97472500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing COL0 pads
+05:03:59: Routing pad 'SW1:1' at (-7085000, -2540000) with pad 'SW17:1' at (-7085000, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(-7085000, -2540000), (-7085000, 16510000)]
+05:03:59: Routing pad 'SW17:1' at (-7085000, 16510000) with pad 'SW33:1' at (-7085000, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(-7085000, 16510000), (-7085000, 40322500)]
+05:03:59: Routing pad 'SW33:1' at (-7085000, 40322500) with pad 'SW49:1' at (-7085000, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(-7085000, 40322500), (-7085000, 59372500)]
+05:03:59: Routing pad 'SW49:1' at (-7085000, 59372500) with pad 'SW65:1' at (-7085000, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(-7085000, 59372500), (-7085000, 78422500)]
+05:03:59: Routing pad 'SW65:1' at (-7085000, 78422500) with pad 'SW81:1' at (-7085000, 97472500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(-7085000, 78422500), (-7085000, 97472500)]
+05:03:59: Routing COL14 pads
+05:03:59: Routing pad 'SW15:1' at (264377500, -2540000) with pad 'SW31:1' at (264377500, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(264377500, -2540000), (264377500, 16510000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW31:1' at (264377500, 16510000) with pad 'SW47:1' at (264377500, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(264377500, 16510000), (264377500, 40322500)]
+05:03:59: Routing pad 'SW47:1' at (264377500, 40322500) with pad 'SW63:1' at (264377500, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(264377500, 40322500), (264377500, 59372500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW63:1' at (264377500, 59372500) with pad 'SW79:1' at (264377500, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(264377500, 59372500), (264377500, 78422500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing COL15 pads
+05:03:59: Routing pad 'SW16:1' at (283427500, -2540000) with pad 'SW32:1' at (283427500, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(283427500, -2540000), (283427500, 16510000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW32:1' at (283427500, 16510000) with pad 'SW48:1' at (283427500, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(283427500, 16510000), (283427500, 40322500)]
+05:03:59: Routing pad 'SW48:1' at (283427500, 40322500) with pad 'SW64:1' at (283427500, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(283427500, 40322500), (283427500, 59372500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW64:1' at (283427500, 59372500) with pad 'SW80:1' at (283427500, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(283427500, 59372500), (283427500, 78422500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW80:1' at (283427500, 78422500) with pad 'SW92:1' at (283427500, 97472500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(283427500, 78422500), (283427500, 97472500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing COL13 pads
+05:03:59: Routing pad 'SW14:1' at (245327500, -2540000) with pad 'SW30:1' at (245327500, 16510000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(245327500, -2540000), (245327500, 16510000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW30:1' at (245327500, 16510000) with pad 'SW46:1' at (245327500, 40322500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(245327500, 16510000), (245327500, 40322500)]
+05:03:59: Routing pad 'SW46:1' at (245327500, 40322500) with pad 'SW62:1' at (245327500, 59372500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(245327500, 40322500), (245327500, 59372500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW62:1' at (245327500, 59372500) with pad 'SW78:1' at (245327500, 78422500) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(245327500, 59372500), (245327500, 78422500)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'SW78:1' at (245327500, 78422500) with pad 'SW91:1' at (254852500, 97472500) using coordinate system rotated by 0 degree(s)
+05:03:59: Routing ROW1 pads
+05:03:59: Routing pad 'D17:1' at (5080000, 24700000) with pad 'D18:1' at (24130000, 24700000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(5080000, 24700000), (24130000, 24700000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D18:1' at (24130000, 24700000) with pad 'D19:1' at (43180000, 24700000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(24130000, 24700000), (43180000, 24700000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D19:1' at (43180000, 24700000) with pad 'D20:1' at (62230000, 24700000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(43180000, 24700000), (62230000, 24700000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D20:1' at (62230000, 24700000) with pad 'D21:1' at (81280000, 24700000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(62230000, 24700000), (81280000, 24700000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D21:1' at (81280000, 24700000) with pad 'D22:1' at (100330000, 24700000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(81280000, 24700000), (100330000, 24700000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D22:1' at (100330000, 24700000) with pad 'D23:1' at (119380000, 24700000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(100330000, 24700000), (119380000, 24700000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D23:1' at (119380000, 24700000) with pad 'D24:1' at (138430000, 24700000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(119380000, 24700000), (138430000, 24700000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D24:1' at (138430000, 24700000) with pad 'D25:1' at (157480000, 24700000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(138430000, 24700000), (157480000, 24700000)]
+05:03:59: Routing pad 'D25:1' at (157480000, 24700000) with pad 'D26:1' at (176530000, 24700000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(157480000, 24700000), (176530000, 24700000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D26:1' at (176530000, 24700000) with pad 'D27:1' at (195580000, 24700000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(176530000, 24700000), (195580000, 24700000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D27:1' at (195580000, 24700000) with pad 'D28:1' at (214630000, 24700000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(195580000, 24700000), (214630000, 24700000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D28:1' at (214630000, 24700000) with pad 'D29:1' at (233680000, 24700000) using coordinate system rotated by 0 degree(s)
+05:03:59: Adding track segment (B.Cu): [(214630000, 24700000), (233680000, 24700000)]
+05:03:59: Could not add track segment due to detected collision
+05:03:59: Routing pad 'D29:1' at (233680000, 24700000) with pad 'D30:1' at (257492500, 24700000) using coordinate system rotated by 0 degree(s)
+05:04:00: Adding track segment (B.Cu): [(233680000, 24700000), (257492500, 24700000)]
+05:04:00: Could not add track segment due to detected collision
+05:04:00: Routing pad 'D30:1' at (257492500, 24700000) with pad 'D31:1' at (276542500, 24700000) using coordinate system rotated by 0 degree(s)
+05:04:00: Adding track segment (B.Cu): [(257492500, 24700000), (276542500, 24700000)]
+05:04:00: Could not add track segment due to detected collision
+05:04:00: Routing pad 'D31:1' at (276542500, 24700000) with pad 'D32:1' at (295592500, 24700000) using coordinate system rotated by 0 degree(s)
+05:04:00: Adding track segment (B.Cu): [(276542500, 24700000), (295592500, 24700000)]
+05:04:00: Could not add track segment due to detected collision
+05:04:00: Routing COL8 pads
+05:04:00: Routing pad 'SW9:1' at (145315000, -2540000) with pad 'SW25:1' at (145315000, 16510000) using coordinate system rotated by 0 degree(s)
+05:04:00: Adding track segment (B.Cu): [(145315000, -2540000), (145315000, 16510000)]
+05:04:00: Could not add track segment due to detected collision
+05:04:00: Routing pad 'SW25:1' at (145315000, 16510000) with pad 'SW41:1' at (145315000, 40322500) using coordinate system rotated by 0 degree(s)
+05:04:00: Adding track segment (B.Cu): [(145315000, 16510000), (145315000, 40322500)]
+05:04:00: Could not add track segment due to detected collision
+05:04:00: Routing pad 'SW41:1' at (145315000, 40322500) with pad 'SW57:1' at (145315000, 59372500) using coordinate system rotated by 0 degree(s)
+05:04:00: Adding track segment (B.Cu): [(145315000, 40322500), (145315000, 59372500)]
+05:04:00: Could not add track segment due to detected collision
+05:04:00: Routing pad 'SW57:1' at (145315000, 59372500) with pad 'SW73:1' at (145315000, 78422500) using coordinate system rotated by 0 degree(s)
+05:04:00: Adding track segment (B.Cu): [(145315000, 59372500), (145315000, 78422500)]
+05:04:00: Could not add track segment due to detected collision
+05:04:00: Removing dangling tracks

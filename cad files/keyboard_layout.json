@@ -1,0 +1,6 @@
+[{a:7},"Esc","F13","F14","F15","F16","F17","F18","F19","20","F21","F22","F23","F24",{x:0.25},"M1","M2","M3"],
+[{a:4},"~\n`","!\n\n\n\n\n\n\n\n\nF1","@\n\n\n\n\n\n\n\n\nF2","#\n\n\n\n\n\n\n\n\nF3","$\n\n\n\n\n\n\n\n\nF4","%\n\n\n\n\n\n\n\n\nF5","^\n\n\n\n\n\n\n\n\nF6","&\n\n\n\n\n\n\n\n\nF7","*\n\n\n\n\n\n\n\n\nF8","(\n\n\n\n\n\n\n\n\nF9",")\n\n\n\n\n\n\n\n\nF10",{a:7},"F11","F12",{x:0.25,a:4},"{\n[","}\n]",{a:7},"M4"],
+[{y:0.25},"Tab","Q","W","E","R","T","Y","U","I","O","P","Back Space",{a:4},"_\n-",{x:0.25},"\nHome\n\n\n\n\n\n\n\n7","\n&uarr;\n\n\n\n\n\n\n\n8","\nPgUp\n\n\n\n\n\n\n\n9"],
+[{a:7},"Caps lock","A","S","D","F","G","H","J","K","L",{a:4},":\n:","\"\n'","+\n=",{x:0.25},"\n&larr;\n\n\n\n\n\n\n\n4",{a:7},"5",{a:4},"\n&rarr;\n\n\n\n\n\n\n\n6"],
+[{a:7},"Shift","Z","X","C","V","B","N","M",{a:4},"<\n,",">\n.",{a:7},"&uarr;","Enter",{a:4},"?\n/",{x:0.25},"\nEnd\n\n\n\n\n\n\n\n1","\n&darr;\n\n\n\n\n\n\n\n2","\nPgDn\n\n\n\n\n\n\n\n3"],
+[{a:7},"Ctrl","Super","Alt","FN",{x:0.5},"&dArr;",{w:2},"SPACE","&uArr;",{x:0.5},"&larr;","&darr;","&rarr;",{x:1.25,a:4,w:2},"\nIns\n\n\n\n\n\n\n\n0","Num Lock"]
